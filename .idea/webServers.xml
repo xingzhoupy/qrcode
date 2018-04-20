@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d9cf7f11-0e36-4d24-98c7-f1a1dfb50fb2" name="qrcode_CNN" url="http://172.16.204.13">
+        <fileTransfer host="172.16.204.13" port="12598" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="12598" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="284ce1e4-02bf-415a-a48c-48fabeb87679" name="gzxiaoi" url="http://192.168.160.6">
+        <fileTransfer host="192.168.160.6" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
